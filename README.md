@@ -2,7 +2,7 @@
 
 <!-- ## 👋 &nbsp;Hey there! I'm Manuel -->
 
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Aditya</h2>
+<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Manuel</h2>
 
 ### 👨🏻‍💻 &nbsp;About Me
 
