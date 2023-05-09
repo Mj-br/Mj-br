@@ -3,7 +3,9 @@
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/>
 
-<h1 align= "center">Hey there! I'm Manuel</h>
+<h1 align= "center">Hey there! I'm Manuel</h1>
+
+<br/>
 
 ![app4](https://github.com/Mj-br/Mj-br/assets/98741174/5b255a9a-7166-43ce-8cd2-4f36d61adcff)
 
