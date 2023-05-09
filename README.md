@@ -1,5 +1,3 @@
-### Hello 👋 I'm Manuel 
-
 <!-- ## 👋 &nbsp;Hey there! I'm Manuel -->
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Manuel</h2>
@@ -18,7 +16,7 @@
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-<p align="center">
+<p align="left">
 <a href="https://github.com/AVS1508">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Mj-br&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Mj-br&layout=compact&langs_count=8&theme=algolia"/>
