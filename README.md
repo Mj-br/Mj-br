@@ -1,10 +1,6 @@
 <!-- ## 👋 &nbsp;Hey there! I'm Manuel -->
-
-
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/>
-
 <h1 align= "center">Hey there! I'm Manuel</h1>
-
 <br/>
 
 ![app4](https://github.com/Mj-br/Mj-br/assets/98741174/5b255a9a-7166-43ce-8cd2-4f36d61adcff)
@@ -34,7 +30,7 @@
 ✍️ &nbsp;In my free time, I like to play guitar and do active sports like surfing and running as hobbies.\
 💬 &nbsp;Feel free to reach out to me for volunteering, or just for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at ro7josemanuel@gmail.com! I'll try to respond as soon as I can.
-<!--📄 &nbsp;Please have a look at my [Résumé](https://www.xxx.com/resume.html) for more details about me. I'm open to feedback and suggestions! -->
+<!--📄 &nbsp;Please have a look at my [Résumé](https://www.///.com/resume.html) for more details about me. I'm open to feedback and suggestions! -->
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
