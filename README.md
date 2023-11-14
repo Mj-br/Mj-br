@@ -25,7 +25,7 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies around mobile apps and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm currently a Junior developer and I'm studying everyday to improve my skills.\
+🎓 &nbsp;I'm currently an Android developer improving my skills everyday.\
 🌱 &nbsp;I'm on track for learning more about Android and iOS native development.\
 ✍️ &nbsp;In my free time, I like to play guitar and do active sports like surfing and running as hobbies.\
 💬 &nbsp;Feel free to reach out to me for volunteering, or just for some interesting discussion.\
