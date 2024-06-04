@@ -24,12 +24,11 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;I like to explore new technologies around mobile apps and develop software solutions and quick hacks.\
+💡 &nbsp;I like to explore new technologies around mobile apps and develop software solutions.\
 🎓 &nbsp;I'm currently an Android developer improving my skills everyday.\
-🌱 &nbsp;I'm on track for learning more about Android and iOS native development.\
-✍️ &nbsp;In my free time, I like to play guitar and do active sports like surfing and running as hobbies.\
-💬 &nbsp;Feel free to reach out to me for volunteering, or just for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at ro7josemanuel@gmail.com! I'll try to respond as soon as I can.
+🌱 &nbsp;Everyday learning more and more about Software Architecture.\
+✍️ &nbsp;In my free time, I like to do read about clean code and other releated books but also do active sports.\
+💬 &nbsp;Feel free to reach out to me for volunteering, or just for some interesting discussion.
 <!--📄 &nbsp;Please have a look at my [Résumé](https://www.///.com/resume.html) for more details about me. I'm open to feedback and suggestions! -->
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
