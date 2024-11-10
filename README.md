@@ -21,9 +21,8 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies around mobile apps and develop software solutions.\
-🎓 &nbsp;I'm currently an Android developer improving my skills everyday.\
 🌱 &nbsp;Everyday learning more and more about Software Architecture.\
-✍️ &nbsp;In my free time, I like to do read about clean code and other releated books but also do active sports.\
+✍️ &nbsp;In my free time, I like to do read about clean code and other releated books.\
 💬 &nbsp;Feel free to reach out to me for volunteering, or just for some interesting discussion.
 <!--📄 &nbsp;Please have a look at my [Résumé](https://www.///.com/resume.html) for more details about me. I'm open to feedback and suggestions! -->
 
