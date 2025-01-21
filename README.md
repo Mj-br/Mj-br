@@ -7,7 +7,6 @@
 ![Android](https://img.shields.io/badge/-Android-05122A?style=flat&logo=android)&nbsp;
 ![JetPack](https://img.shields.io/badge/-Jetpack-05122A?style=flat&logo=jetpackCompose)&nbsp;
 ![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase)&nbsp;
-![MVVM](https://img.shields.io/badge/-MVVM-05122A?style=flat&logo=mvvm)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=javalang)&nbsp;
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-05122A?style=flat&logo=android-studio&logoColor=5beb78)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
